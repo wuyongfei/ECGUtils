@@ -1,0 +1,5 @@
+D:\apps\ECGUtils\ZedGraphSample\obj\Debug\ZedGraphSample.csproj.AssemblyReference.cache
+D:\apps\ECGUtils\ZedGraphSample\obj\Debug\ZedGraphSample.Form1.resources
+D:\apps\ECGUtils\ZedGraphSample\obj\Debug\ZedGraphSample.Properties.Resources.resources
+D:\apps\ECGUtils\ZedGraphSample\obj\Debug\ZedGraphSample.csproj.GenerateResource.cache
+D:\apps\ECGUtils\ZedGraphSample\obj\Debug\ZedGraphSample.csproj.CoreCompileInputs.cache

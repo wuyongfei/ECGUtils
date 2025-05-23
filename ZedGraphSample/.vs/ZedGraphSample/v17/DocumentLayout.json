@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\apps\\ECGUtils\\ZedGraphSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9402C03E-2EE3-4125-BEC3-CF9A857E4F8B}|ZedGraphSample.csproj|d:\\apps\\ecgutils\\zedgraphsample\\zedgraphsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9402C03E-2EE3-4125-BEC3-CF9A857E4F8B}|ZedGraphSample.csproj|solutionrelative:zedgraphsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZedGraphSample",
+              "DocumentMoniker": "D:\\apps\\ECGUtils\\ZedGraphSample\\ZedGraphSample.csproj",
+              "RelativeDocumentMoniker": "ZedGraphSample.csproj",
+              "ToolTip": "D:\\apps\\ECGUtils\\ZedGraphSample\\ZedGraphSample.csproj",
+              "RelativeToolTip": "ZedGraphSample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T17:28:05.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

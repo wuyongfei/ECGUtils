@@ -1,0 +1,11 @@
+{
+  "ClassCode": "OBS",
+  "XsiType": "GLIST_PQ",
+  "Code": "TIME_RELATIVE",
+  "CodeSystem": "2.16.840.1.113883.6.24",
+  "CodeSystemName": "MDC",
+  "HeadValue": "0",
+  "HeadUnit": "s",
+  "IncrementValue": "2",
+  "IncrementUnit": "s"
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ECG": {
+      "commandName": "Project",
+      "commandLineArgs": "xml"
+    }
+  }
+}

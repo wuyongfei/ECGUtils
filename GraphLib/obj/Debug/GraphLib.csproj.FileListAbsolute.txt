@@ -1,0 +1,1 @@
+D:\apps\ECGUtils\GraphDisplay\GraphLib\obj\Debug\GraphLib.csproj.AssemblyReference.cache

@@ -1,0 +1,134 @@
+[
+  {
+    "ClassCode": "OBS",
+    "XsiType": "SLIST_PQ",
+    "Code": "MDC_ECG_LEAD_I",
+    "CodeSystem": "2.16.840.1.113883.6.24",
+    "CodeSystemName": "MDC",
+    "OriginValue": "0",
+    "OriginUnit": "uV",
+    "ScaleValue": "4.88",
+    "ScaleUnit": "uV"
+  },
+  {
+    "ClassCode": "OBS",
+    "XsiType": "SLIST_PQ",
+    "Code": "MDC_ECG_LEAD_II",
+    "CodeSystem": "2.16.840.1.113883.6.24",
+    "CodeSystemName": "MDC",
+    "OriginValue": "0",
+    "OriginUnit": "uV",
+    "ScaleValue": "4.88",
+    "ScaleUnit": "uV"
+  },
+  {
+    "ClassCode": "OBS",
+    "XsiType": "SLIST_PQ",
+    "Code": "MDC_ECG_LEAD_III",
+    "CodeSystem": "2.16.840.1.113883.6.24",
+    "CodeSystemName": "MDC",
+    "OriginValue": "0",
+    "OriginUnit": "uV",
+    "ScaleValue": "4.88",
+    "ScaleUnit": "uV"
+  },
+  {
+    "ClassCode": "OBS",
+    "XsiType": "SLIST_PQ",
+    "Code": "MDC_ECG_LEAD_aVR",
+    "CodeSystem": "2.16.840.1.113883.6.24",
+    "CodeSystemName": "MDC",
+    "OriginValue": "0",
+    "OriginUnit": "uV",
+    "ScaleValue": "4.88",
+    "ScaleUnit": "uV"
+  },
+  {
+    "ClassCode": "OBS",
+    "XsiType": "SLIST_PQ",
+    "Code": "MDC_ECG_LEAD_aVL",
+    "CodeSystem": "2.16.840.1.113883.6.24",
+    "CodeSystemName": "MDC",
+    "OriginValue": "0",
+    "OriginUnit": "uV",
+    "ScaleValue": "4.88",
+    "ScaleUnit": "uV"
+  },
+  {
+    "ClassCode": "OBS",
+    "XsiType": "SLIST_PQ",
+    "Code": "MDC_ECG_LEAD_aVF",
+    "CodeSystem": "2.16.840.1.113883.6.24",
+    "CodeSystemName": "MDC",
+    "OriginValue": "0",
+    "OriginUnit": "uV",
+    "ScaleValue": "4.88",
+    "ScaleUnit": "uV"
+  },
+  {
+    "ClassCode": "OBS",
+    "XsiType": "SLIST_PQ",
+    "Code": "MDC_ECG_LEAD_V1",
+    "CodeSystem": "2.16.840.1.113883.6.24",
+    "CodeSystemName": "MDC",
+    "OriginValue": "0",
+    "OriginUnit": "uV",
+    "ScaleValue": "4.88",
+    "ScaleUnit": "uV"
+  },
+  {
+    "ClassCode": "OBS",
+    "XsiType": "SLIST_PQ",
+    "Code": "MDC_ECG_LEAD_V2",
+    "CodeSystem": "2.16.840.1.113883.6.24",
+    "CodeSystemName": "MDC",
+    "OriginValue": "0",
+    "OriginUnit": "uV",
+    "ScaleValue": "4.88",
+    "ScaleUnit": "uV"
+  },
+  {
+    "ClassCode": "OBS",
+    "XsiType": "SLIST_PQ",
+    "Code": "MDC_ECG_LEAD_V3",
+    "CodeSystem": "2.16.840.1.113883.6.24",
+    "CodeSystemName": "MDC",
+    "OriginValue": "0",
+    "OriginUnit": "uV",
+    "ScaleValue": "4.88",
+    "ScaleUnit": "uV"
+  },
+  {
+    "ClassCode": "OBS",
+    "XsiType": "SLIST_PQ",
+    "Code": "MDC_ECG_LEAD_V4",
+    "CodeSystem": "2.16.840.1.113883.6.24",
+    "CodeSystemName": "MDC",
+    "OriginValue": "0",
+    "OriginUnit": "uV",
+    "ScaleValue": "4.88",
+    "ScaleUnit": "uV"
+  },
+  {
+    "ClassCode": "OBS",
+    "XsiType": "SLIST_PQ",
+    "Code": "MDC_ECG_LEAD_V5",
+    "CodeSystem": "2.16.840.1.113883.6.24",
+    "CodeSystemName": "MDC",
+    "OriginValue": "0",
+    "OriginUnit": "uV",
+    "ScaleValue": "4.88",
+    "ScaleUnit": "uV"
+  },
+  {
+    "ClassCode": "OBS",
+    "XsiType": "SLIST_PQ",
+    "Code": "MDC_ECG_LEAD_V6",
+    "CodeSystem": "2.16.840.1.113883.6.24",
+    "CodeSystemName": "MDC",
+    "OriginValue": "0",
+    "OriginUnit": "uV",
+    "ScaleValue": "4.88",
+    "ScaleUnit": "uV"
+  }
+]

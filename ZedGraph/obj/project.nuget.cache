@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qtmhjz4rfy4=",
+  "success": true,
+  "projectFilePath": "D:\\apps\\ECGUtils\\ZedGraph\\ZedGraph.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wuyon\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\wuyon\\.nuget\\packages\\system.drawing.common\\8.0.8\\system.drawing.common.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

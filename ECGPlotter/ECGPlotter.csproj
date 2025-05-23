@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+    <ForceDesignerDpiUnaware>true</ForceDesignerDpiUnaware>
+    <StartupObject>ECGPlotter.Program</StartupObject>
+    <Copyright>2025 北京中科同和信息技术有限公司</Copyright>
+    <PackageProjectUrl>www.caca.com.cn</PackageProjectUrl>
+    <Description>心电图标注工具</Description>
+    <Title>心电图标注工具</Title>
+    <PackageReadmeFile>readme.txt</PackageReadmeFile>
+    <PackageTags>心电图 标注</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ECGXmlReader\ECGXmlReader.csproj" />
+    <ProjectReference Include="..\GraphLib\GraphLib.csproj" />
+    <ProjectReference Include="..\ZedGraph.WinForms\ZedGraph.WinForms.csproj" />
+    <ProjectReference Include="..\ZedGraph\ZedGraph.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="readme.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

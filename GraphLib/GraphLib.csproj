@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ClassLibrary1</RootNamespace>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+    <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+    <ForceDesignerDpiUnaware>true</ForceDesignerDpiUnaware>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="PlotterGraphPaneEx.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PlotterGraphEx.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SelectCurvesForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <PropertyGroup />
+</Project>

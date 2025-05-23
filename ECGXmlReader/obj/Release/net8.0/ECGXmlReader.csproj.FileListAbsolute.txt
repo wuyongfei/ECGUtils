@@ -1,0 +1,12 @@
+D:\apps\ECGUtils\ECGXmlReader\bin\Release\net8.0\ECGXmlReader.deps.json
+D:\apps\ECGUtils\ECGXmlReader\bin\Release\net8.0\ECGXmlReader.dll
+D:\apps\ECGUtils\ECGXmlReader\bin\Release\net8.0\ECGXmlReader.pdb
+D:\apps\ECGUtils\ECGXmlReader\obj\Release\net8.0\ECGXmlReader.csproj.AssemblyReference.cache
+D:\apps\ECGUtils\ECGXmlReader\obj\Release\net8.0\ECGXmlReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\ECGUtils\ECGXmlReader\obj\Release\net8.0\ECGXmlReader.AssemblyInfoInputs.cache
+D:\apps\ECGUtils\ECGXmlReader\obj\Release\net8.0\ECGXmlReader.AssemblyInfo.cs
+D:\apps\ECGUtils\ECGXmlReader\obj\Release\net8.0\ECGXmlReader.csproj.CoreCompileInputs.cache
+D:\apps\ECGUtils\ECGXmlReader\obj\Release\net8.0\ECGXmlReader.dll
+D:\apps\ECGUtils\ECGXmlReader\obj\Release\net8.0\refint\ECGXmlReader.dll
+D:\apps\ECGUtils\ECGXmlReader\obj\Release\net8.0\ECGXmlReader.pdb
+D:\apps\ECGUtils\ECGXmlReader\obj\Release\net8.0\ref\ECGXmlReader.dll

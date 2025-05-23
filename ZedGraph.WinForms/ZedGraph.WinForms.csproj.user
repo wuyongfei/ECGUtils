@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="ZedGraphControl.ContextMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ZedGraphControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ZedGraphControl.Events.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ZedGraphControl.Printing.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ZedGraphControl.Properties.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ZedGraphControl.ScrollBars.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ZedGraphControl.ToolTip.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

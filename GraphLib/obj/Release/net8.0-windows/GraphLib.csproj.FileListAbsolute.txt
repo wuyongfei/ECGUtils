@@ -1,0 +1,15 @@
+D:\apps\ECGUtils\GraphLib\bin\Release\net8.0-windows\GraphLib.deps.json
+D:\apps\ECGUtils\GraphLib\bin\Release\net8.0-windows\GraphLib.dll
+D:\apps\ECGUtils\GraphLib\bin\Release\net8.0-windows\GraphLib.pdb
+D:\apps\ECGUtils\GraphLib\obj\Release\net8.0-windows\GraphLib.PlotterDisplayEx.resources
+D:\apps\ECGUtils\GraphLib\obj\Release\net8.0-windows\GraphLib.PlotterGraphPaneEx.resources
+D:\apps\ECGUtils\GraphLib\obj\Release\net8.0-windows\GraphLib.PlotterGraphSelectCurvesForm.resources
+D:\apps\ECGUtils\GraphLib\obj\Release\net8.0-windows\GraphLib.PrintPreviewForm.resources
+D:\apps\ECGUtils\GraphLib\obj\Release\net8.0-windows\ClassLibrary1.Properties.Resources.resources
+D:\apps\ECGUtils\GraphLib\obj\Release\net8.0-windows\GraphLib.csproj.GenerateResource.cache
+D:\apps\ECGUtils\GraphLib\obj\Release\net8.0-windows\GraphLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\ECGUtils\GraphLib\obj\Release\net8.0-windows\GraphLib.csproj.CoreCompileInputs.cache
+D:\apps\ECGUtils\GraphLib\obj\Release\net8.0-windows\GraphLib.dll
+D:\apps\ECGUtils\GraphLib\obj\Release\net8.0-windows\refint\GraphLib.dll
+D:\apps\ECGUtils\GraphLib\obj\Release\net8.0-windows\GraphLib.pdb
+D:\apps\ECGUtils\GraphLib\obj\Release\net8.0-windows\ref\GraphLib.dll
