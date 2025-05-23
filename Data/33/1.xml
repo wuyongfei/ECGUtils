@@ -24,7 +24,7 @@
 						<trialSubject classCode="RESBJ">
 							<id root="2.16.840.1.113883.3.400" extension="ZY040001204685"/>
 							<subjectDemographicPerson classCode="PSN">
-								<name>廖思睿</name>
+								<name>廖某某</name>
 								<administrativeGenderCode code="M" codeSystem="2.16.840.1.113883.5.1"/>
 								<birthTime value="1991-02-12"/>
 							</subjectDemographicPerson>
