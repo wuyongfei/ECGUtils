@@ -19,8 +19,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZedGraph.WinForms", "ZedGra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZedGraphSample", "ZedGraphSample\ZedGraphSample.csproj", "{C2E026E5-E544-4C66-9CBF-ECC54CFB6868}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastGraphics", "FastGraphics\FastGraphics.csproj", "{BCE60DCF-DAF5-448B-A193-A19B8C88B4E3}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECGPWaveLabelling", "ECGPWaveLabelling\ECGPWaveLabelling.csproj", "{3A7F80C0-53B9-4761-8971-83AB2C342260}"
 EndProject
 Global
@@ -61,10 +59,6 @@ Global
 		{C2E026E5-E544-4C66-9CBF-ECC54CFB6868}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2E026E5-E544-4C66-9CBF-ECC54CFB6868}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2E026E5-E544-4C66-9CBF-ECC54CFB6868}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BCE60DCF-DAF5-448B-A193-A19B8C88B4E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BCE60DCF-DAF5-448B-A193-A19B8C88B4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BCE60DCF-DAF5-448B-A193-A19B8C88B4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BCE60DCF-DAF5-448B-A193-A19B8C88B4E3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3A7F80C0-53B9-4761-8971-83AB2C342260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3A7F80C0-53B9-4761-8971-83AB2C342260}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A7F80C0-53B9-4761-8971-83AB2C342260}.Release|Any CPU.ActiveCfg = Release|Any CPU
