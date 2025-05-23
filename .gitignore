@@ -1,5 +1,7 @@
 *.suo
 *.user
+*.ecg
+*.pdf
 _ReSharper.*
 bin
 obj
